@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building full-stack web applications and strengthening my problem-solving skills (600+ DSA problems solved)<br><br>🌱 I’m constantly exploring and learning new technologies — currently diving deeper into React.js and modern database ecosystems<br><br>🤝 I’m looking to collaborate on impactful projects and contribute to open-source communities<br><br>💡 I enjoy turning complex problems into simple, efficient, and user-friendly applications<br><br>🧠 Strong foundation in CS fundamentals (DSA, OOP, DBMS, OS) with a focus on writing clean and maintainable code<br><br>🌍 Beyond coding, I love exploring financial markets, travelling, and staying curious about emerging technologies<br><br>⚡ Fun fact: I don’t just learn new tech — I enjoy breaking it down to understand how it works under the hood
+🚀 Full-stack developer solving problems (600+ DSA) and building scalable apps<br><br>🌱 Always learning — currently diving into React and modern tech<br><br>🤝 Open to collaboration & open-source<br><br>🌍 Curious about financial markets, travel, and how things work under the hood
 
 
 ## 🌐 Socials:
