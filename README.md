@@ -12,9 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=Mrutunjaya-Panda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mrutunjaya-Panda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrutunjaya-Panda&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mrutunjaya-Panda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
